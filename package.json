@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "typescript": "^5.9.2"
   }
